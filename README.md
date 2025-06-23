@@ -1,5 +1,5 @@
 # Actual velocity tracking of an Electric Vehicle Model Using PID Controller in Simulink
-This repository contains a complete simulink model of an **Electric Vehicle (EV)** system designed for **real time velocity tracking**  using a **PID controller**.The model tracks a standard drive cycle and evaluates key EV performance metrices such as Battery state of charge (SOC),motor behaviour and energy demand 
+This repository contains a complete simulink model of an **Electric Vehicle (EV)** system designed for **real time velocity tracking**  using a **PID controller**.The model tracks a standard drive cycle and evaluates key EV performance metrices such as Battery state of charge (SOC),motor behavior and energy demand 
 ## Project Overview 
 The Project integrates both **Controller** and **Plant models** to simulate a closed loop electric vehicle system.Tuning of PID parameters is done to ensure that the vehicle's actual speed closely follows the reference speed from a drive cycle. 
 ## Objectives
